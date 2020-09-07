@@ -42,4 +42,5 @@ class DatabaseHelper {
     _localStorage.remove(BREWERIES_ID);
   }
 
+
 }
